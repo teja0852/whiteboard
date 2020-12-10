@@ -1,2 +1,2 @@
 # whiteboard
- collabboard
+ collaborative whiteboard 
